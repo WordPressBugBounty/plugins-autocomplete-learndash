@@ -3,7 +3,7 @@ Contributors: liveaspankaj
 Donate link:
 Tags: LearnDash, eLearning, LMS, Auto Complete, AutoComplete, Lesson, Topic, Course
 Requires at least: 4.0
-Tested up to: 6.5.3
+Tested up to: 6.8.2
 Stable tag: trunk
 Requires PHP: 5.4
 License: GPLv2 or later
